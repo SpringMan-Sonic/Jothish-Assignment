@@ -47,7 +47,7 @@ A modern, feature-rich employee management dashboard built with React, featuring
 - **Fully Responsive**: Mobile, tablet, and desktop optimized
 - **Clean Design**: Minimal and professional interface
 
-### 🇮🇳 Indian Localization
+###  Indian Localization
 - **20 Indian Employees**: Realistic names (Rajesh Kumar, Priya Sharma, etc.)
 - **13 Cities**: Bangalore, Mumbai, Pune, Hyderabad, Delhi, Chennai, and more
 - **Salaries in LPA**: Displayed as "₹18.5 LPA" format
@@ -67,7 +67,7 @@ A modern, feature-rich employee management dashboard built with React, featuring
 
 1. **Clone or extract the project**
    ```bash
-   cd employee-dashboard
+   cd JOTHISH ASSIGNMENT
    ```
 
 2. **Install dependencies**
